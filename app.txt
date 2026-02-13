@@ -4,3 +4,4 @@ next version
 =======
 new line
 >>>>>>> f532a080c99d91a6ec072fe0bd185fa5ca465b05
+next version
